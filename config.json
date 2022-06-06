@@ -1,0 +1,6 @@
+{
+  "database": "test_target_mysql",
+  "host":     "127.0.0.1",
+  "user": "test_target_mysql",
+  "password": "CHANGE_ME"
+}
